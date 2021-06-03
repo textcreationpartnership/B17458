@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative directed to all true lovers of justice, and maintainers of legall right and proprietie.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17458</idno><idno type="EEBO-CITATION">99888905</idno>
+  <idno type="VID">193909</idno>
+  <idno type="EEBO-PROQUEST">2240902075</idno>
+  
+            <idno type="STC">Wing B592</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[107]</idno>
+            <idno type="STC">ESTC R232494</idno>
+            <idno type="PROQUEST">ocm99888905</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888905e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193909)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[107] )</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative directed to all true lovers of justice, and maintainers of legall right and proprietie.</title>
+                  <author>Ball, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at foot: Septemb 17th 1656.</note>
+                  <note>Head-piece, initial.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bullock, Edward --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Mortgages --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193909:1"/>
+            <head>A Narrative directed To all true Lovers of Justice, and Maintainers OF <hi>Legall Right and Proprietie.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 7.<seg rend="sup">th</seg> of <hi>November,</hi> 1650. One <hi>William Bullock</hi> of <hi>New England</hi> Gent: exhibited his Petition unto the late <hi>Parliament</hi> of <hi>England:</hi> suggesting therein, that one <hi>Thomas Bullock</hi> his Uncle had Morgaged (not Sold out<g ref="char:EOLhyphen"/>right) to one <hi>Edmond Standen</hi> Esquire, certain Mannors and Lands in the County of <hi>Berks;</hi> with full Power of Redemption, and that by undue Practices the Lord Keeper <hi>Edgerton</hi> had Ratified the said Morgage.</p>
+            <p>
+               <note place="margin">The <hi>Case</hi> is Reported by Sir <hi>Edward Cooke</hi> in his 3. Booke, in <hi>Twines case-Standen</hi> and <hi>Bullock.</hi>
+               </note>By meanes of some <hi>Complices</hi> then Members of <hi>Parliament</hi> (whose names for their Credits J forbeare to instance) <hi>Bullock</hi> obtained an Order to the then Committee for <hi>Indemnity</hi> to heare, Examine, and Report the true state of the <hi>Case</hi> unto the <hi>Parliament:</hi> which Committee upon hearing of the Case on the 20.<seg rend="sup">th</seg> of <hi>March</hi> following, Voted <hi>that there was no Morgage, nor corrupt Decree</hi> (as complained of) being fully satisfied therein by Deeds and Records produ<g ref="char:EOLhyphen"/>ced by one <hi>William Standen</hi> Esquire the then Defendant, <hi>viz.</hi> By Deed of Bargaine and Sale Inrolled, dated, <hi>June</hi> 4.<seg rend="sup">th</seg> ELIZ. 31. (<hi>Anno Dom.</hi> 1589.) by Release of Interest with warranty Inrolled, dated <hi>August</hi> 5<seg rend="sup">th</seg> ELIZ. 31. by <hi>Fines,</hi> and <hi>Recoveries</hi> exemplified under the Great Seale, <hi>November</hi> 5.<seg rend="sup">th</seg> ELIZ. 36. by <hi>Bill</hi> and <hi>Answer</hi> exemplified under the Great Seale, <hi>Febr.</hi> 15. ELIZ. 36. by the <hi>Decree of Chancary</hi> complained of, and Exemplified under the Great Seale, <hi>June</hi> 5.<seg rend="sup">th</seg> ELIZ. 39 and by other Deeds and Records: Whereas <hi>Bullock</hi> the Petitioner could produce nothing but <hi>Heare-sayes</hi> (taken a little before in the Country) of a Morgage, and values of the Lands, Woods, and Timber; As if the wisdome of a <hi>Parliament (whose intrusted Power is to provide for Generall safety, Regular Government, and Publick Profit)</hi> would any time Ballance <hi>Heare-sayes</hi> with <hi>Records;</hi> or after 60. Yeares and upwards Question the values of E<g ref="char:EOLhyphen"/>states contrary to all Law, Usage, and Equity. However that <hi>Parliament</hi> did not farther med<g ref="char:EOLhyphen"/>dle with the Business.</p>
+            <p>But the Committee for <hi>Indemnity</hi> sitting at <hi>Haberdashers-hall,</hi> by the meanes chiefly of one <hi>Winslow</hi> (a <hi>New England</hi> Gentleman, J pray take notice) tooke upon themselves to Report in the Business what they thought fit, to the <hi>Parliament</hi> sitting in <hi>October,</hi> 1653 but that <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> would not meddle therewith.</p>
+            <p>Nevertheless <hi>Bullock</hi> aforesaid persisting in his <hi>Barretting</hi> kind of way, by meanes of some <hi>Complices</hi> (J will forbeare to say <hi>Champitors</hi>) did in <hi>March</hi> last, (1655.) exhibit his Petition to the Lord Protector touching the same; As if his Highness (<hi>Who is engaged, and obliged by ver<g ref="char:EOLhyphen"/>tue of his high Place; or Office to Protect all mens Estates according to Law</hi>) should, or would di<g ref="char:EOLhyphen"/>spose any mans Estate contrary to Law.</p>
+            <p>But no marvell that <hi>Bullook</hi> aforesaid hath of late been vexatious in his Proceedings; when heretofore his Father one <hi>William Bullock</hi> was Censured in the <hi>Starre-Chamber,</hi> and Imprisoned for forging, or feigning of a Leafe of 800. yeares of the <hi>Lands,</hi> by his Son <hi>Petitioned for;</hi> and also for suborning Evidence, or Witnesses, as it hath been made appeare by a Decree of <hi>Star-Chamber,</hi> exemplified under the Great Seale, <hi>June</hi> 30.<seg rend="sup">th</seg> ELIZ. 39. And great pitty it is, that there is not now some Court, or <hi>Tribunall,</hi> to punish <hi>severely</hi> such like Forgers, and Sub<g ref="char:EOLhyphen"/>orners; as also <hi>Clamorous Pretenders and Petitioners,</hi> that not any may by such Persons bee mo<g ref="char:EOLhyphen"/>lested in their Legall Rights.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Septemb.</hi> 17.<seg rend="sup">th</seg> 1656.</date>
+               </dateline>
+               <signed>WILLIAM BALL.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
